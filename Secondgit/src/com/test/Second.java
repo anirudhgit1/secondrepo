@@ -14,6 +14,7 @@ public class Second {
 		System.out.println("twelth");
 		System.out.println("thirteen");
 		System.out.println("fourteen");
+		System.out.println("1728");
 	}
 
 }
