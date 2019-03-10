@@ -5,6 +5,7 @@ public class Second {
 	{
 		System.out.println("hello");
 		System.out.println("a");
+		System.out.println("aaa");
 	}
 
 }
