@@ -8,6 +8,7 @@ public class Second {
 		System.out.println("aaa");
 		System.out.println("vamu");
 		System.out.println("nani");
+		System.out.println("last");
 	}
 
 }
