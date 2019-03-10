@@ -12,6 +12,7 @@ public class Second {
 		System.out.println("nineth");
 		System.out.println("tenth");
 		System.out.println("twelth");
+		System.out.println("thirteen");
 	}
 
 }
