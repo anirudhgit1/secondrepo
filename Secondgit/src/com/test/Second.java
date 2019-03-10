@@ -10,6 +10,7 @@ public class Second {
 		System.out.println("nani");
 		System.out.println("last");
 		System.out.println("nineth");
+		System.out.println("tenth");
 	}
 
 }
