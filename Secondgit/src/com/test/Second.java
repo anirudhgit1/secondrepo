@@ -9,6 +9,7 @@ public class Second {
 		System.out.println("vamu");
 		System.out.println("nani");
 		System.out.println("last");
+		System.out.println("nineth");
 	}
 
 }
